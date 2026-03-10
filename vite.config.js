@@ -25,8 +25,8 @@ function obtenerHtmlFiles(){
 
 export default defineConfig({
 
-    /* necesario para GitHub Pages */
-    base: "/portafolio-vite/",
+    
+    base: "/PortafolioVite/",
 
     build:{
         rollupOptions:{
