@@ -26,7 +26,7 @@ function obtenerHtmlFiles(){
 export default defineConfig({
 
     
-    base: "/PortafolioVite/",
+    base: '/PortafolioVite/',
 
     build:{
         rollupOptions:{
